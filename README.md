@@ -50,9 +50,6 @@ Templates, Lambda Functions, Exception Handling
 
 Clone this repository and explore different topics by navigating through the folders. 📂
 
-# Clone the repository
-git clone https://github.com/your-username/cpp-concepts.git
-cd cpp-concepts
 
 Each topic contains well-documented code examples to help you understand the concepts better! 🚀
 
